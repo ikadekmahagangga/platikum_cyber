@@ -1,0 +1,8 @@
+akademik.instiki.ac.id
+cs1.instiki.ac.id
+ejournal.instiki.ac.id
+library.instiki.ac.id 
+portal.instiki.ac.id
+tracerstudy.instiki.ac.id
+um.instiki.ac.id
+www.instiki.ac.id
